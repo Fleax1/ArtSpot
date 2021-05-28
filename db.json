@@ -17,6 +17,15 @@
       "image": "https://graffitimundo.com/wp-content/uploads/2011/01/graffitti-de-el-eternauta.jpg",
       "localisation": "Buenos Aires",
       "note": 2
+    },
+    {
+      "id": 3,
+      "name": "Kissing Coppers",
+      "artist": "Banksy",
+      "date": 2004,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Banksy_Kissing_Policemen-cropped.jpg",
+      "localisation": "Brighton",
+      "note": 4.5
     }
   ]
 }
