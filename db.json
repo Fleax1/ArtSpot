@@ -5,8 +5,8 @@
       "name": "Chuuuttt!!!",
       "artist": "Jef Aérosol",
       "date": 2012,
-      "image": "ff",
-      "localisation": "48.860758443134145, 2.352223540479582",
+      "image": "http://ekladata.com/AT6_SSvtLC3_bCIsqtFN5Ye6Ri8.jpg",
+      "localisation": "Lieu 1",
       "note": 4
     },
     {
@@ -14,8 +14,8 @@
       "name": "El Nestornauta",
       "artist": "graffitimundo",
       "date": 2010,
-      "image": "ff",
-      "localisation": "48.860758443134145, 2.352223540479582",
+      "image": "https://graffitimundo.com/wp-content/uploads/2011/01/graffitti-de-el-eternauta.jpg",
+      "localisation": "Lieu 2",
       "note": 2
     }
   ]
