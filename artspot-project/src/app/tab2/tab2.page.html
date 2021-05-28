@@ -1,4 +1,27 @@
 <ion-content [fullscreen]="true">
-
-  <app-explore-container name="Tab 2 page"></app-explore-container>
+  <h1>Ajouter une œuvre</h1>
+  <p>Ajoutez ici une œuvre street art non répertoriée sur l'application</p>
+  <form>
+    <ion-item>
+      <ion-label>Nom</ion-label>
+      <ion-input type="text" name="name"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Artiste</ion-label>
+      <ion-input type="text" name="artist"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Image</ion-label>
+      <ion-input type="file" name="image"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Lieu</ion-label>
+      <ion-input type="text" name="lieu"></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Note /5</ion-label>
+      <ion-input type="number" name="note"></ion-input>
+    </ion-item>
+    <button ion-button type="submit" >Ajouter</button>
+  </form>
 </ion-content>

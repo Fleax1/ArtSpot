@@ -19,4 +19,4 @@ export class ItemService {
 }
 
 // const API = "http://localhost:3000/item";
-const API = "http://json-server.typicode/Fleax1/ArtSpot/item";
+const API = "https://my-json-server.typicode.com/Fleax1/ArtSpot/item";
